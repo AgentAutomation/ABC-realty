@@ -12,11 +12,11 @@
     // Optional: Load your custom CSS
     var customCSS = document.createElement("link");
     customCSS.rel = "stylesheet";
-    customCSS.href = "https://agentautomation.github.io/ABC-realty/styles.css"; // Your hosted CSS file
+    customCSS.href = "https://agentautomation.github.io/ABC-realty/index-0237cf3c.css"; // Your hosted CSS file
     document.head.appendChild(customCSS);
 
     // Optional: Load your custom JavaScript
     var customScript = document.createElement("script");
-    customScript.src = "https://agentautomation.github.io/ABC-realty/script.js"; // Your hosted JS file
+    customScript.src = "https://agentautomation.github.io/ABC-realty/index-b030c919.js"; // Your hosted JS file
     document.body.appendChild(customScript);
 })();
